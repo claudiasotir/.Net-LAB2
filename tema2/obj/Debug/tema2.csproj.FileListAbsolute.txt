@@ -1,0 +1,7 @@
+D:\.NET\tema2\tema2\bin\Debug\tema2.exe.config
+D:\.NET\tema2\tema2\bin\Debug\tema2.exe
+D:\.NET\tema2\tema2\bin\Debug\tema2.pdb
+D:\.NET\tema2\tema2\obj\Debug\tema2.csproj.AssemblyReference.cache
+D:\.NET\tema2\tema2\obj\Debug\tema2.csproj.CoreCompileInputs.cache
+D:\.NET\tema2\tema2\obj\Debug\tema2.exe
+D:\.NET\tema2\tema2\obj\Debug\tema2.pdb

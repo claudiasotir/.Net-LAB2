@@ -1,0 +1,20 @@
+1. Initial ni s-a parut mai confortabil sa scriem fiecare clasa in parte fiind 
+obisnuiti oarecum cu acest mod mai usor dar am observat cum lucrurile se duplicau 
+din ce in ce mai mult si nu ne puteam folosi de o functionalitate dintr-o clasa pentru alta.
+
+2. Pentru al doilea program am folosit mult "copy-paste" de la primul,
+ si apoi doar am adaptat particularitatile necesare.
+
+3. Nu e mereu un lucru bun, mai ales atunci cand sunt mai multe programe, si multe din ele au bucati diferite
+de cod comune, ar insemna aparitia multor altor clase.
+De asemenea devine mai greu sa citesti codul,fiindca atunci cand incerci sa scrii o functionalitate
+care sa fie cat mai generala, se pierd aspecte precum nume sugestive ale variabilelor sau functiilor.
+Apar mai multe cazuri care trebuie luate in considerare, motiv pentru care apare mult cod, 
+si cand vrem sa adaugam un caz nou de folosinta sau alte conditii, 
+trebuie sa fim siguri ca schimbarile pe care le adaugam nu strica celelalte programe.
+Iar pentru programe mici si putine, fie poate fi foarte folositor sa factorizam cod,
+fie uneori nu se merita efortul in plus.
+
+4. Acest Kata a fost util sa observam ca in domenii diferite se pot folosi functionalitati similare,
+dar si avanataje si dezavantaje ale factorizarii codului, precum cele spuse mai sus.
+Sesiunea de coding Kata ne-a indemnat sa exersam manipularea datelor astfel creandu-ne un nou good practice.
